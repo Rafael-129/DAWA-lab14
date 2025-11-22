@@ -40,7 +40,7 @@ export default function AboutPage() {
 
           <div className="md:col-span-2">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">
-              ¡Hola! Soy {personalInfo.name}
+              ¡Hola! Soy Rafael García Castillejo
             </h2>
             <div className="prose text-gray-700 space-y-4">
               <p>
