@@ -36,9 +36,9 @@ export const personalInfo = {
   name: 'Rafael García Castillejo',
   title: 'Full Stack Developer',
   description: 'Desarrollador apasionado por crear experiencias web excepcionales',
-  email: 'tu@email.com',
-  github: 'https://github.com/tuusuario',
-  linkedin: 'https://linkedin.com/in/tuusuario',
-  siteUrl: 'https://tuportafolio.com',
+  email: 'garciarafael1704@gmail.com',
+  github: 'https://github.com/Rafael-129',
+  linkedin: 'https://www.linkedin.com/in/rafael-garcia-castillejo/',
+  siteUrl: 'https://rafael-portafolio.wuaze.com',
   avatar: 'https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
 };
