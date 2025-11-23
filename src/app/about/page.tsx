@@ -34,6 +34,7 @@ export default function AboutPage() {
                 className="object-cover"
                 loading="lazy"
                 sizes="(max-width: 768px) 100vw, 33vw"
+                quality={80}
               />
             </div>
           </div>

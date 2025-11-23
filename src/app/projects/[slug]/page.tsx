@@ -72,6 +72,7 @@ export default async function ProjectDetailPage({ params }: Props) {
             className="object-cover"
             priority
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
+            quality={80}
           />
         </div>
 

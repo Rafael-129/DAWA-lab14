@@ -18,6 +18,7 @@ export default function Home() {
             className="rounded-full object-cover"
             priority
             sizes="128px"
+            quality={85}
           />
         </div>
         <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
